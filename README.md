@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Shampurnaa Satvika</h1>
-<h3 align="center">A passionate AI/ML developer from India</h3>
+<h3 align="center">A passionate Software/AI/ML developer from India</h3>
 <img align="middle" alt="dino run" width="450"  src="https://miro.medium.com/v2/resize:fit:1080/1*zfHgiP6zVBVvQT5YxISiJw.gif">
 <img align="middle" alt="Artificial Intelligence" width="400" length="1000" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-820943,resizemode-75,msid-80218989/prime/technology-and-startups/five-ways-to-make-ai-a-greater-force-for-good-despite-big-techs-excessive-control-over-its-future.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shampurnaa&label=Profile%20views&color=0e75b6&style=flat" alt="shampurnaa" /> </p>
